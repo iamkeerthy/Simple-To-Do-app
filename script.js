@@ -5,6 +5,12 @@ function addTask() {
   if (inputBox.value.trim() === '') { 
     alert("You must write something!");
   } else {
+  
+    if (listContainer.children.length >= 6) {
+      alert("You can only add up to 6 tasks!");
+      return;
+    }
+
     let li = document.createElement("li");
     li.innerHTML = inputBox.value;
     listContainer.appendChild(li);
@@ -42,6 +48,5 @@ inputBox.addEventListener("keydown", function (e) {
     addTask();
   }
 });
-
 
 showTask();

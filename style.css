@@ -117,8 +117,8 @@ background: #edeef0;
 
 
 footer {
-    background-color: #005f73; /* Matches your color theme */
-    color: #ffffff; /* Text color */
+    background-color: linear-gradient(135deg,#153677 , #3b032f);; 
+    color: #ffffff; 
     text-align: center;
     padding: 10px 0;
     position: fixed;
@@ -131,6 +131,7 @@ footer {
 
 footer p {
     margin: 0;
-    padding: 0;
-    font-weight: bold;
+    padding: 30px;
+    font-size: 20px;
+
 }
