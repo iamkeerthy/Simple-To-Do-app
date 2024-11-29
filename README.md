@@ -9,6 +9,11 @@ A simple, interactive To-Do List app designed to help you manage your tasks with
 - **Delete Tasks**: Remove tasks by clicking the delete icon (×) next to each task.
 - **Task Limit**: Only a maximum of 6 tasks can be added to the list at once.
 - **Persistent Storage**: Tasks are saved in your browser’s local storage so they persist even after the page is refreshed.
+  
+## Demo
+![To-Do List Screenshot](https://github.com/iamkeerthy/Simple-To-Do-app/blob/main/to-do-list.jpg)
+
+
 
 
 ## How to Use
