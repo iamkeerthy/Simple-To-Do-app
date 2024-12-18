@@ -51,4 +51,4 @@ This project is licensed under the MIT License.
 
 ## Created by 📞
 Dunsan Keerthikan with ❤️
-Check out my GitHub: iamkeerthy
+Check out my GitHub: https://github.com/iamkeerthy
