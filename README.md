@@ -38,9 +38,10 @@ JavaScript
 Installation
 Clone the repository to your local machine:
 
-## bash
-## Copy code
+```bash
+
 git clone https://github.com/iamkeerthy/to-do-list-app.git
+```
 Open the index.html file in your web browser to start using the app.
 
 ## License
