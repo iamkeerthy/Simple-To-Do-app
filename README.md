@@ -1,8 +1,8 @@
-# To-Do List App
+# To-Do List App 🎯
 
 A simple, interactive To-Do List app designed to help you manage your tasks with ease. Add, edit, and remove tasks while keeping track of them in a clean and user-friendly interface.
 
-## Features
+## Features 🛠️
 
 - **Add Tasks**: Quickly add tasks by typing them into the input box and pressing "Enter".
 - **Task Completion**: Mark tasks as completed by clicking on them, toggling their status.
@@ -31,11 +31,13 @@ A simple, interactive To-Do List app designed to help you manage your tasks with
 
 6. You can add up to 6 tasks at a time.
 
-## Technologies Used
+## Technologies Used 💻
 HTML
 CSS
 JavaScript
-Installation
+
+
+### Installation
 Clone the repository to your local machine:
 
 ```bash
@@ -47,6 +49,6 @@ Open the index.html file in your web browser to start using the app.
 ## License
 This project is licensed under the MIT License.
 
-## Created by
+## Created by 📞
 Dunsan Keerthikan with ❤️
 Check out my GitHub: iamkeerthy
